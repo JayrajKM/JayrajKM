@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JayrajKM
-- 👀 I’m interested in Data, databases, Oracle SQL, Oracle PLSQL
+- 👋 Hi, I’m @Jayraj Kakubal Math
+- 👀 I’m interested in Data, Databases, Oracle SQL, Oracle PLSQL
 - 🌱 I’m currently learning Cloud technologies, BigData
 - 💞️ I’m looking to collaborate on interesting projects
 
